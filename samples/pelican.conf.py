@@ -38,7 +38,7 @@ STATIC_PATHS = ["pictures", ]
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
 # custom page generated with a jinja2 template
-TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
+TEMPLATE_PAGES = {'content/pages/jinja2_template.html': 'jinja2_template.html'}
 
 # foobar will not be used, because it's not in caps. All configuration keys
 # have to be in caps
