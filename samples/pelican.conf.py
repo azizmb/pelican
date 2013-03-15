@@ -10,7 +10,7 @@ GITHUB_URL = 'http://github.com/ametaireau/'
 DISQUS_SITENAME = "blog-notmyidea"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
-LOCALE = "C"
+# LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
